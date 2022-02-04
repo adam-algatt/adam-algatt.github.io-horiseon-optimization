@@ -1,2 +1,1 @@
-# horiseon-optimization
-Optimizing Horiseon site functionality
+# Code Refactor Starter Code
